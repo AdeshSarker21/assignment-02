@@ -1,0 +1,241 @@
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+    .container {
+        max-width: 950px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .hero-text .hero-heading {
+        font-size: 57px;
+        line-height: 70px;
+    }
+
+    .hero-text .hero-details {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .hero-area {
+        padding: 25px 70px;
+    }
+
+    .blog-item {
+        flex-basis: 47%;
+    }
+
+    .custom-padding {
+        flex-basis: 38%;
+    }
+
+    .left-side-button-area {
+        position: unset;
+        width: 90%;
+    }
+
+    .main-body-right-side {
+        margin-left: 0px;
+    }
+
+    .list-area {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .list-item .button-item {
+        background: #FFFFFF;
+        border: 1px solid #E8E8E8;
+        border-radius: 10px;
+        width: 100%;
+    }
+
+    .left-side-button-area {
+        background: transparent;
+    }
+
+    .view-more-btn {
+        display: block;
+    }
+
+    .disPlayNone {
+        display: none;
+    }
+
+    .hero-image img {
+        width: 100%;
+        margin-bottom: -30px;
+    }
+}
+
+@media all and (max-width:991px) {
+    .container {
+        max-width: 700px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .hero-text .hero-heading {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .hero-text .hero-details {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .hero-area {
+        padding: 25px 70px;
+    }
+
+    .blog-item {
+        flex-basis: 47%;
+    }
+
+    .custom-padding {
+        flex-basis: 38%;
+    }
+
+    .left-side-button-area {
+        position: unset;
+        width: 90%;
+    }
+
+    .main-body-right-side {
+        margin-left: 0px;
+    }
+
+    .list-area {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .list-item .button-item {
+        background: #FFFFFF;
+        border: 1px solid #E8E8E8;
+        border-radius: 10px;
+        width: 100%;
+    }
+
+    .left-side-button-area {
+        background: transparent;
+    }
+
+    .footer-menu .footer-list {
+        flex-wrap: wrap;
+    }
+
+    .footer-menu .footer-list .footer-list-item {
+        padding: 0px 32px;
+        list-style: none;
+        margin-bottom: 15px;
+    }
+
+    .view-more-btn {
+        display: block;
+    }
+
+    .disPlayNone {
+        display: none;
+    }
+
+    .hero-image img {
+        width: 100%;
+        margin-bottom: -84px;
+    }
+}
+
+@media all and (max-width:767px) {
+    .hero-area {
+        flex-direction: column;
+    }
+
+    .hero-text {
+        flex-basis: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .hero-image {
+        flex-basis: 100%;
+    }
+
+    .container {
+        max-width: 500px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .list-area {
+        flex-direction: column;
+    }
+
+    .list-item {
+        list-style: none;
+        width: 100%;
+    }
+
+    .blog-item {
+        flex-basis: 100%;
+    }
+
+    .footer-menu .footer-list {
+        flex-direction: column;
+    }
+
+    .list-item .button-item {
+        width: 88%;
+    }
+
+    .left-side-button-area {
+        position: unset;
+        width: 76%;
+    }
+
+    .hero-image img {
+        width: 100%;
+        margin-bottom: -25px;
+    }
+    .view-more-btn{
+        display: none;
+    }
+}
+
+@media all and (max-width:577px) {
+    .container {
+        max-width: 450px;
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
+@media all and (max-width:480px) {
+    .container {
+        max-width: 400px;
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
+@media all and (max-width:400px) {
+    .container {
+        max-width: 360px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .watch-live-buttton {
+        font-size: 16px;
+    }
+}
+
+@media all and (max-width:375px) {
+    .container {
+        max-width: 300px;
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
+@media all and (max-width:359px) {}
